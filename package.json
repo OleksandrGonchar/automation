@@ -1,0 +1,16 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-appium": "node \\hobby\\instagram\\node_modules\\appium\\",
+    "test": "node index.js"
+  },
+  "author": "Oleksandr Gonchar <goncharao.ukr@gmail.com> (https://linkedin.com/in/oleksandr-gonchar-949800aa)",
+  "license": "MIT",
+  "dependencies": {
+    "appium": "1.11.1",
+    "webdriverio": "5.7.3"
+  }
+}
